@@ -1,3 +1,3 @@
 FROM gitpod/workspace-full
 
-RUN sudo apt install ocaml
+RUN sudo apt install ocaml -y
